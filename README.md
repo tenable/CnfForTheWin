@@ -1,6 +1,6 @@
 # CnfForTheWin
 CnfForTheWin repository contains PowerShell files allowing to create a conflicting object when a new machine account is legitimately created in Active Directory (AD). When this attempt works, and if the SecureChannel is fixed manually by an administrator, then an attacker can edit the RBCD attribute and get administrative access to this new machine.
-It is associated to the blogpost: [blog post title](FIXME medium).
+It is associated to the blogpost: [Using conflicting objects in Active Directory to gain privileges](https://medium.com/tenable-techblog/using-conflicting-objects-in-active-directory-to-gain-privileges-243ef6a27928).
 
 ## Modules and script
 ### Invoke-CnfMachineCreation.ps1

@@ -31,8 +31,7 @@ will be added to the domain.
 Subscribe to the 192.168.1.1 domain controller using the credentials (for 30 minutes) and duplicate the next computer that
 will be added to the domain by targeting the 192.168.1.2 domain controller.
 .NOTES
-# Related
-FIXME Medium URL
+# Related to https://medium.com/tenable-techblog/using-conflicting-objects-in-active-directory-to-gain-privileges-243ef6a27928
 #>
 
 [CmdletBinding()]
