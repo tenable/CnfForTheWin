@@ -25,6 +25,8 @@ Examples:
   - Subscribe to the 192.168.1.1 domain controller using the provided credentials.
   - When a new computer account is added, it will try to add its fake duplicate account on the 192.168.1.2 domain controller.
   - The script will be active for 30 minutes.
+ 
+  ![image](https://github.com/user-attachments/assets/907a463e-c898-45fd-af05-a74ed1a2df0e)
 
 ## Flow
 1. Subscribe to a domain controller for LDAP notifications.
